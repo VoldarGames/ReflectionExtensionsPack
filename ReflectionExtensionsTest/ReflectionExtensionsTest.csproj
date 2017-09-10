@@ -51,8 +51,11 @@
   </Choose>
   <ItemGroup>
     <Compile Include="TestDomain\Animal.cs" />
+    <Compile Include="TestDomain\Cloth.cs" />
     <Compile Include="TestDomain\Dog.cs" />
+    <Compile Include="TestDomain\Human.cs" />
     <Compile Include="TestDomain\Interfaces\IKillable.cs" />
+    <Compile Include="TestDomain\Patrol.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
